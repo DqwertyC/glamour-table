@@ -1,6 +1,3 @@
-### Resource Pack Info
-This datapack requires the included resource pack to function! The resource pack is included as `GlamourRP.zip` in the root directory of the datapack. You can also download the resource pack on its own from the page for the specific version here on Modrinth. Regardless of how you download it, make sure it's added to your Minecraft `resources` directory and enabled in game!
-
 # Introduction
 This datapack adds a two new utility blocks to Minecraft - the Painting Table and the Glamour Table.
 The painting table can be used to create 1x1 custom paintings that can be hung in item frames.
